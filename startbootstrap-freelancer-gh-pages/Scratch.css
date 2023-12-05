@@ -1,0 +1,31 @@
+body {
+    background-image: url('pexels-abdullah-ghatasheh-1631677.jpeg');
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;}
+   
+
+  .h1 {color: rgb(158, 112, 20); font: 300;}
+
+.h3 {text-decoration: underline;}
+
+.img {
+    width: 150px;
+    height: 150px;
+  }
+
+  .lists {text-decoration: wavy;
+    text-align: left;}
+
+  .youtube{
+    width: 1360px;
+    height: 815px;
+    margin-left: auto;
+    margin-right: auto;}
+
+    .tableau{ width: 9000px;
+        height: 700px;
+        margin-left: auto;
+        margin-right: auto;
+    text-align: center;}
